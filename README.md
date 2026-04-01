@@ -1,2 +1,2 @@
 # personalwebsite
-Personal Website project, began for CSE 110
+Aidan's Personal Website
